@@ -1,5 +1,8 @@
 # terminal-translate
-将终端程序的错误提示信息进行翻译，如编译器错误提示。<br/>
+# 将终端程序的错误提示信息进行翻译，如编译器错误提示。<br/>
+# Translate the error message of the terminal program, such as the compiler error message<br/>
+# 计算机的世界不应只有英文<br/>
+# The world of computers should not only have English<br/>
 Translate the error message of the terminal program, such as the compiler error message.<br/>
 在这里修改要翻译为何种语言。<br/>
 Modify the language to be translated here.<br/>
